@@ -1,32 +1,39 @@
 # Prerequisites
-*.d
+AStarSolver/*.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+AStarSolver/*.slo
+AStarSolver/*.lo
+AStarSolver/*.o
+AStarSolver/*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+AStarSolver/*.gch
+AStarSolver/*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+AStarSolver/*.so
+AStarSolver/*.dylib
+AStarSolver/*.dll
 
 # Fortran module files
-*.mod
-*.smod
+AStarSolver/*.mod
+AStarSolver/*.smod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+AStarSolver/*.lai
+AStarSolver/*.la
+AStarSolver/*.a
+AStarSolver/*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+AStarSolver/*.exe
+AStarSolver/*.out
+AStarSolver/*.app
+
+# Solution
+AStarSolver/.idea/
+AStarSolver/.vscode/
+AStarSolver/.vs/
+AStarSolver/*.user
+AStarSolver/x64/
